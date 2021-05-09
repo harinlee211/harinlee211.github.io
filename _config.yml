@@ -20,7 +20,7 @@ title                    : "to make each day acount "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Harin"
-description              : "An amazing website."
+description              : "프로그래밍과 데이터분석"
 url                      : "https://harinlee211.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Harin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
